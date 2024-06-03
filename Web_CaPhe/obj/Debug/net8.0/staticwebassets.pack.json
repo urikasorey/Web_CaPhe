@@ -1,0 +1,1045 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web_CaPhe.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Web_CaPhe.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\.gitignore",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\.gitignore"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\CHANGELOG.md"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\LICENSE",
+      "PackagePath": "staticwebassets\\LayoutAdmin"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\README.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\README.md"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\gulp-tasks\\inject.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\inject.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\gulp-tasks\\serve.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\serve.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\gulp-tasks\\vendors.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\vendors.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\gulpfile.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulpfile.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\index.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\index.html"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\package.json",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\package.json"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\pages\\samples\\blank-page.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\blank-page.html"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\pages\\samples\\error-404.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-404.html"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\pages\\samples\\error-500.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-500.html"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_footer.html"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\LayoutAdmin\\screenshot.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\screenshot.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\dropdown\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\dropdown\\css\\style.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\dropdown\\js\\navbar-dropdown.js",
+      "PackagePath": "staticwebassets\\assets\\dropdown\\js\\navbar-dropdown.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\formoid\\formoid.min.js",
+      "PackagePath": "staticwebassets\\assets\\formoid\\formoid.min.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\images\\TPT Food2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\TPT Food2.png"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\anna-bratiychuk-3w2aurzeesu-unsplash-815x1223.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\images\\brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\brent-ninaber-vlpefxuqynm-unsplash-2000x1125.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\images\\coffee-beans-2258839-960.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\coffee-beans-2258839-960.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\images\\coffee-icon-sign-symbol-design-free-png.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\coffee-icon-sign-symbol-design-free-png.webp"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\giancarlo-duarte-rthw0pwclhw-unsplash-815x543.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\images\\hashes.json",
+      "PackagePath": "staticwebassets\\assets\\images\\hashes.json"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\images\\jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\jeremy-yap-jn-hagwe4yw-unsplash-815x1223.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\images\\mbr-1920x1372.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mbr-1920x1372.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\images\\mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\mohammad-amirahmadi-tk2ifgn60xo-unsplash-815x1019.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\nathan-dumlao-nbjho6wmrww-unsplash-815x1223.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\tetiana-shyshkina-4lqjr8gu-bg-unsplash-815x1222.jpg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\mobirise\\css\\mbr-additional.css",
+      "PackagePath": "staticwebassets\\assets\\mobirise\\css\\mbr-additional.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\parallax\\jarallax.css",
+      "PackagePath": "staticwebassets\\assets\\parallax\\jarallax.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\parallax\\jarallax.js",
+      "PackagePath": "staticwebassets\\assets\\parallax\\jarallax.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\smoothscroll\\smooth-scroll.js",
+      "PackagePath": "staticwebassets\\assets\\smoothscroll\\smooth-scroll.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\socicon\\css\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\socicon\\css\\styles.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\socicon\\fonts\\socicon.eot",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.eot"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\socicon\\fonts\\socicon.svg",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.svg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\socicon\\fonts\\socicon.ttf",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.ttf"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\socicon\\fonts\\socicon.woff",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.woff"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\socicon\\fonts\\socicon.woff2",
+      "PackagePath": "staticwebassets\\assets\\socicon\\fonts\\socicon.woff2"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\theme\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\theme\\css\\style.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\theme\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\theme\\js\\script.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.eot"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.svg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.ttf"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons-bold\\mobirise-icons-bold.woff"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.eot"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.svg"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.ttf"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff",
+      "PackagePath": "staticwebassets\\assets\\web\\assets\\mobirise-icons2\\mobirise2.woff"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\assets\\ytplayer\\index.js",
+      "PackagePath": "staticwebassets\\assets\\ytplayer\\index.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web_CaPhe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Web_CaPhe.props",
+      "PackagePath": "build\\Web_CaPhe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Web_CaPhe.props",
+      "PackagePath": "buildMultiTargeting\\Web_CaPhe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Web_CaPhe.props",
+      "PackagePath": "buildTransitive\\Web_CaPhe.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

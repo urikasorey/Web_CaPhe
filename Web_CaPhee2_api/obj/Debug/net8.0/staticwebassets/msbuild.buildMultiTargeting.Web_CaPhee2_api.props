@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Web_CaPhee2_api.props" />
+</Project>

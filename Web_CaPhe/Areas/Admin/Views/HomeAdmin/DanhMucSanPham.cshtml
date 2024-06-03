@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Web_CaPhe.Models.Order>
+
+@{
+    ViewData["Title"] = "DanhMucSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Danh sách đơn hàng</h1>
+<form asp-action="TimKiem" method="post">
+    <div class="form-group">
+        <label for="searchEmail">Tìm kiếm đơn hàng theo Email:</label>
+        <input type="text" class="form-control" id="searchEmail" name="email" autocomplete="off">
+    </div>
+    <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+</form>
+
+<p>
+    <a asp-action="Create"></a>
+</p> 
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderTotal)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderPlaced)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr class="table-success">
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderTotal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderPlaced)
+            </td>
+           
+        </tr>
+}
+    </tbody>
+</table>

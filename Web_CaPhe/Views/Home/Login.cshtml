@@ -1,0 +1,52 @@
+﻿ @page
+@model LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<!-- Các phần khác giữ nguyên -->
+<body>
+
+    <!-- Điều hướng và nội dung trang đăng nhập -->
+    <section>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="card col-12 col-lg-6">
+                    <div class="card-wrapper">
+                        <div class="card-box align-center">
+                            <h4 class="card-title mbr-fonts-style align-center mb-4 display-1">
+                                <strong>Login</strong>
+                            </h4>
+
+                            <!-- Kiểm tra giá trị Model trước khi sử dụng -->
+                            @if (Model != null)
+                            {
+                                <!-- Form đăng nhập -->
+                                <form method="post">
+                                    <!-- Các trường đăng nhập (username và password) -->
+                                    <label for="username">Username:</label>
+                                    <input type="text" id="username" asp-for="Username" required>
+
+                                    <label for="password">Password:</label>
+                                    <input type="password" id="password" asp-for="Password" required>
+
+                                    <!-- Nút đăng nhập -->
+                                    <button type="submit">Login</button>
+                                </form>
+                            }
+                            else
+                            {
+                                <p>Error: Model is null</p>
+                            }
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer và các tệp script và style cần thiết -->
+
+</body>
+</html>
