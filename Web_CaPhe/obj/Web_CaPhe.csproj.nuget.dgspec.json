@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\Web_CaPhe.csproj": {}
+    "F:\\github\\Web_CaPhe\\Web_CaPhe\\Web_CaPhe.csproj": {}
   },
   "projects": {
-    "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\Web_CaPhe.csproj": {
+    "F:\\github\\Web_CaPhe\\Web_CaPhe\\Web_CaPhe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\Web_CaPhe.csproj",
+        "projectUniqueName": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Web_CaPhe.csproj",
         "projectName": "Web_CaPhe",
-        "projectPath": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\Web_CaPhe.csproj",
+        "projectPath": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Web_CaPhe.csproj",
         "packagesPath": "C:\\Users\\nhanh\\.nuget\\packages\\",
-        "outputPath": "F:\\github\\Web_CaPhee2\\Web_CaPhee2\\Web_CaPhee\\Web_CaPhe\\obj\\",
+        "outputPath": "F:\\github\\Web_CaPhe\\Web_CaPhe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -54,6 +54,14 @@
               "target": "Package",
               "version": "[2.2.4, )"
             },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
             "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
               "target": "Package",
               "version": "[8.0.6, )"
@@ -93,6 +101,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
             }
           },
           "imports": [

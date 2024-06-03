@@ -8,7 +8,7 @@ namespace Web_CaPhe.Migrations
     public partial class addShoppingCartItem : Migration
     {
         /// <inheritdoc />
-        protected override void Up(MigrationBuilder migrationBuilder 
+        protected override void Up(MigrationBuilder migrationBuilder )
         {
             migrationBuilder.CreateTable(
                 name: "ShoppingCartItems",
