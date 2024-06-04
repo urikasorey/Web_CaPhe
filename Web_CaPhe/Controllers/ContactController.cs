@@ -1,43 +1,57 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Web_CaPhe.Models.Interface;
+using System.Net.Http;
+using System.Text;
+using System.Text.Json;
+using System.Threading.Tasks;
 using Web_CaPhe.Models;
+using Web_CaPhe.Models.Interface;
 
 public class ContactController : Controller
 {
-    private readonly IContactRepository _contactRepository;
+	private readonly IContactRepository _contactRepository;
+	private readonly HttpClient _httpClient;
 
-    public ContactController(IContactRepository contactRepository)
-    {
-        _contactRepository = contactRepository;
-    }
+	public ContactController(IContactRepository contactRepository, IHttpClientFactory httpClientFactory)
+	{
+		_contactRepository = contactRepository;
+		_httpClient = httpClientFactory.CreateClient();
+	}
 
-    [HttpPost]
-    public IActionResult SubmitContactForm(Contact model)
-    {
-        if (ModelState.IsValid) 
-        {
-            try
-            {
-                
-                _contactRepository.AddContact(model);
+	[HttpPost]
+	public async Task<IActionResult> SubmitContactForm(Contact model)
+	{
+		if (ModelState.IsValid)
+		{
+			try
+			{
+				// Serialize the model to JSON
+				var json = JsonSerializer.Serialize(model);
+				var content = new StringContent(json, Encoding.UTF8, "application/json");
 
-                
-                return RedirectToAction("ContactSuccess");
-            }
-            catch (Exception ex)
-            {
-                
-                ModelState.AddModelError("", "An error occurred while processing your request. Please try again later.");
-               
-            }
-        }
+				// Send a POST request to the API Controller
+				var response = await _httpClient.PostAsync("https://yourapiurl/api/contact", content);
 
-        // Nếu dữ liệu không hợp lệ hoặc có lỗi xảy ra, trả về view để hiển thị lỗi
-        return View("ContactForm", model);
-    }
+				if (response.IsSuccessStatusCode)
+				{
+					return RedirectToAction("ContactSuccess");
+				}
+				else
+				{
+					ModelState.AddModelError("", "An error occurred while processing your request. Please try again later.");
+				}
+			}
+			catch (Exception ex)
+			{
+				ModelState.AddModelError("", "An error occurred while processing your request. Please try again later.");
+			}
+		}
 
-    public IActionResult ContactSuccess()
-    {
-        return View();
-    }
+		// If the data is invalid or an error occurs, return the view to display the error
+		return View("ContactForm", model);
+	}
+
+	public IActionResult ContactSuccess()
+	{
+		return View();
+	}
 }

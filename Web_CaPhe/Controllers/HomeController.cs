@@ -1,29 +1,43 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System.Net.Http;
+using System.Text.Json;
+using System.Threading.Tasks;
+using Web_CaPhe.Models;
 using Web_CaPhe.Models.Interface;
-using Web_CaPhe;
 
 public class HomeController : Controller
 {
-    private IProductRepository productRepository;
+	private readonly IProductRepository _productRepository;
+	private readonly HttpClient _httpClient;
 
-    public HomeController(IProductRepository productRepository)
-    {
-        this.productRepository = productRepository;
-    }
+	public HomeController(IProductRepository productRepository, IHttpClientFactory httpClientFactory)
+	{
+		_productRepository = productRepository;
+		_httpClient = httpClientFactory.CreateClient();
+	}
 
-    public IActionResult Index()
-    {
-        return View(productRepository.GetTrendingProducts());
-    }
-     
-    public IActionResult Contact()
-    {
-        return View();
-    }
+	public async Task<IActionResult> Index()
+	{
+		var response = await _httpClient.GetAsync("https://yourapiurl/api/home/TrendingProducts");
 
-    public IActionResult Login()
-    {
-      
-        return View();
-    }
+		if (response.IsSuccessStatusCode)
+		{
+			var json = await response.Content.ReadAsStringAsync();
+			var products = JsonSerializer.Deserialize<IEnumerable<Product>>(json, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+			return View(products);
+		}
+
+		// Handle error or return an empty view
+		return View(new List<Product>());
+	}
+
+	public IActionResult Contact()
+	{
+		return View();
+	}
+
+	public IActionResult Login()
+	{
+		return View();
+	}
 }
