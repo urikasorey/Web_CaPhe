@@ -29,7 +29,7 @@ public class ContactController : Controller
 				var content = new StringContent(json, Encoding.UTF8, "application/json");
 
 				// Send a POST request to the API Controller
-				var response = await _httpClient.PostAsync("https://yourapiurl/api/contact", content);
+				var response = await _httpClient.PostAsync("https://localhost:7166/api/contact", content);
 
 				if (response.IsSuccessStatusCode)
 				{

@@ -36,7 +36,7 @@ namespace Web_CaPhe.Controllers
 			{
 				var json = JsonSerializer.Serialize(order);
 				var content = new StringContent(json, Encoding.UTF8, "application/json");
-				var response = await _httpClient.PostAsync("https://yourapiurl/api/orders/Checkout", content);
+				var response = await _httpClient.PostAsync("https://localhost:7166/api/orders/Checkout", content);
 
 				if (response.IsSuccessStatusCode)
 				{

@@ -20,7 +20,7 @@ namespace Web_CaPhe.Controllers
 
 		public async Task<IActionResult> Shop()
 		{
-			var response = await _httpClient.GetAsync("https://yourapiurl/api/products/shop");
+			var response = await _httpClient.GetAsync("https://localhost:7166/api/products/shop");
 			if (response.IsSuccessStatusCode)
 			{
 				var json = await response.Content.ReadAsStringAsync();
@@ -34,7 +34,7 @@ namespace Web_CaPhe.Controllers
 
 		public async Task<IActionResult> Detail(int id)
 		{
-			var response = await _httpClient.GetAsync($"https://yourapiurl/api/products/detail/{id}");
+			var response = await _httpClient.GetAsync($"https://localhost:7166/api/products/detail/{id}");
 			if (response.IsSuccessStatusCode)
 			{
 				var json = await response.Content.ReadAsStringAsync();
