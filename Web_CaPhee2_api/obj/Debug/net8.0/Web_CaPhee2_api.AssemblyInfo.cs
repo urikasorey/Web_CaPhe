@@ -11,11 +11,12 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("720df0fa-3fd7-4b54-8254-6dc9e41c5ebd")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web_CaPhee2_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f313ef9e6ccf94f7d2074113e84137a7c80b508")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b63a463e91a9531c9f66b9719d6fee0b316a6d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web_CaPhee2_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web_CaPhee2_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

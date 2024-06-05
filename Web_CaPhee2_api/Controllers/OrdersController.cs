@@ -2,11 +2,14 @@
 using Microsoft.AspNetCore.Mvc;
 using Web_CaPhee2_api.Models.Interface;
 using Web_CaPhee2_api.Models;
+using Microsoft.AspNetCore.Authorization;
+
 
 namespace Web_CaPhee2_api.Controllers
 {
 	[Route("api/[controller]")]
 	[ApiController]
+	[Authorize]
 	public class OrdersController : ControllerBase
 	{
 		private readonly IOrderRepository _orderRepository;

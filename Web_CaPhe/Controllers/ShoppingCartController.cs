@@ -1,50 +1,52 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System.Net.Http;
+using System.Threading.Tasks;
+using Newtonsoft.Json.Linq;
 using Web_CaPhe.Models;
-using Web_CaPhe.Models.Interface;
-using Web_CaPhe.Models.Services;
-
 namespace Web_CaPhe.Controllers
 {
-    public class ShoppingCartController : Controller
-    {
-        private IShoppingCartRepository shoppingCartRepository;
-        private IProductRepository productRepository;
-        public ShoppingCartController(IShoppingCartRepository
-       shoppingCartRepository, IProductRepository productRepository)
-        {
-            this.shoppingCartRepository = shoppingCartRepository;
-            this.productRepository = productRepository;
-        }
-        public IActionResult Index() 
-        {
-            var items = shoppingCartRepository.GetAllShoppingCartItems();
-            shoppingCartRepository.ShoppingCartItems = items;
-            ViewBag.TotalCart=shoppingCartRepository.GetShoppingCartTotal();
-            return View(items);
-        }
-        public RedirectToActionResult AddToShoppingCart(int pId)
-        {
-            var product = productRepository.GetAllProducts().FirstOrDefault(p => p.Id == pId);
-            if (product != null)
-            {
-                shoppingCartRepository.AddToCart(product);
-                int cartCount = shoppingCartRepository.GetAllShoppingCartItems().Count();
-                HttpContext.Session.SetInt32("CartCount", cartCount);
-            }
-            return RedirectToAction("Index", "ShoppingCart");
-            HttpContext.Session.SetInt32("CartCount", shoppingCartRepository.GetAllShoppingCartItems().Count);
-        }
-        public RedirectToActionResult RemoveFromShoppingCart(int pId)
-        {
-            var product = productRepository.GetAllProducts().FirstOrDefault(p => p.Id ==
-           pId);
-            if (product != null)
-            {
-                shoppingCartRepository.RemoveFromCart(product);
-                int cartCount = shoppingCartRepository.GetAllShoppingCartItems().Count();
-                HttpContext.Session.SetInt32("CartCount", cartCount);
-            }
-            return RedirectToAction("Index");
-        }
-    }
+	public class ShoppingCartController : Controller
+	{
+		private readonly HttpClient _httpClient;
+
+		public ShoppingCartController(HttpClient httpClient)
+		{
+			_httpClient = httpClient;
+		}
+
+		public async Task<IActionResult> Index()
+		{
+			var response = await _httpClient.GetAsync("https://localhost:7166/api/shoppingcart/items");
+			if (response.IsSuccessStatusCode)
+			{
+				var result = await response.Content.ReadAsStringAsync();
+				var items = JObject.Parse(result)["Items"].ToObject<List<ShoppingCartItem>>();
+				ViewBag.TotalCart = JObject.Parse(result)["TotalCart"];
+				return View(items);
+			}
+			return View(new List<ShoppingCartItem>());
+		}
+
+		public async Task<IActionResult> AddToShoppingCart(int pId)
+		{
+			var response = await _httpClient.PostAsync($"https://localhost:7166/api/shoppingcart/add/{pId}", null);
+			if (response.IsSuccessStatusCode)
+			{
+				var result = await response.Content.ReadAsStringAsync();
+				HttpContext.Session.SetInt32("CartCount", int.Parse(JObject.Parse(result)["CartCount"].ToString()));
+			}
+			return RedirectToAction("Index", "ShoppingCart");
+		}
+
+		public async Task<IActionResult> RemoveFromShoppingCart(int pId)
+		{
+			var response = await _httpClient.PostAsync($"https://localhost:7166/api/shoppingcart/remove/{pId}", null);
+			if (response.IsSuccessStatusCode)
+			{
+				var result = await response.Content.ReadAsStringAsync();
+				HttpContext.Session.SetInt32("CartCount", int.Parse(JObject.Parse(result)["CartCount"].ToString()));
+			}
+			return RedirectToAction("Index");
+		}
+	}
 }

@@ -9,6 +9,13 @@
       "resourceId": null,
       "type": "mssql.onprem",
       "connectionId": "ConnectionStrings:CoffeeShopApiDbContextConnection"
+    },
+    "mssql2": {
+      "serviceConnectorResourceId": "",
+      "secretStore": "LocalSecretsFile",
+      "resourceId": null,
+      "type": "mssql.onprem",
+      "connectionId": "ConnectionStrings:capheAuthenDbContext"
     }
   }
 }

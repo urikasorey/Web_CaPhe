@@ -13,6 +13,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddHttpClient();
 
+
 {
     // Các dịch vụ khác được đăng ký ở đây...
     builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
@@ -31,7 +32,7 @@ builder.Services.AddHttpClient();
     builder.Services.AddSession();
     builder.Services.AddHttpContextAccessor();
     var app = builder.Build();
-
+   
     // Configure the HTTP request pipeline.
     if (!app.Environment.IsDevelopment())
     {
