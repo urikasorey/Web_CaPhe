@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "F:\\github\\Web_CaPhe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D299812A-9019-4464-B9E3-6F781C5D51FA}|Web_CaPhee2_api\\Web_CaPhee2_api.csproj|f:\\github\\web_caphe\\web_caphee2_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D299812A-9019-4464-B9E3-6F781C5D51FA}|Web_CaPhee2_api\\Web_CaPhee2_api.csproj|solutionrelative:web_caphee2_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D299812A-9019-4464-B9E3-6F781C5D51FA}|Web_CaPhee2_api\\Web_CaPhee2_api.csproj|f:\\github\\web_caphe\\web_caphee2_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D299812A-9019-4464-B9E3-6F781C5D51FA}|Web_CaPhee2_api\\Web_CaPhee2_api.csproj|solutionrelative:web_caphee2_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,28 +67,12 @@
       "RelativeMoniker": "D:0:0:{D299812A-9019-4464-B9E3-6F781C5D51FA}|Web_CaPhee2_api\\Web_CaPhee2_api.csproj|solutionrelative:web_caphee2_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D299812A-9019-4464-B9E3-6F781C5D51FA}|Web_CaPhee2_api\\Web_CaPhee2_api.csproj|f:\\github\\web_caphe\\web_caphee2_api\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D299812A-9019-4464-B9E3-6F781C5D51FA}|Web_CaPhee2_api\\Web_CaPhee2_api.csproj|solutionrelative:web_caphee2_api\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D299812A-9019-4464-B9E3-6F781C5D51FA}|Web_CaPhee2_api\\Web_CaPhee2_api.csproj|f:\\github\\web_caphe\\web_caphee2_api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D299812A-9019-4464-B9E3-6F781C5D51FA}|Web_CaPhee2_api\\Web_CaPhee2_api.csproj|solutionrelative:web_caphee2_api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,20 +103,8 @@
       "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\dto\\contactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\data\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\data\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -93,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|solutionrelative:web_caphe\\shop.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0708581E-1BB7-4241-8440-2EDDD4EC67AB}|Web_CaPhe\\Web_CaPhe.csproj|f:\\github\\web_caphe\\web_caphe\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -130,8 +146,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Web_CaPhee2_api\\Controllers\\ProductsController.cs",
+              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Web_CaPhee2_api\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T01:44:56.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Web_CaPhee2_api\\Models\\Product.cs",
+              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\Models\\Product.cs",
+              "RelativeToolTip": "Web_CaPhee2_api\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T01:44:41.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Web_CaPhe\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "Web_CaPhe\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T01:43:06.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Web_CaPhe\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Web_CaPhe\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T01:42:37.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Web_CaPhe\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Web_CaPhe\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T10:15:11.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Web_CaPhe\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Web_CaPhe\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T10:15:32.618Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -140,9 +234,10 @@
               "RelativeDocumentMoniker": "Web_CaPhe\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "Web_CaPhe\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAmAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T10:37:44.3Z"
+              "WhenOpened": "2024-06-05T10:37:44.3Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -154,61 +249,64 @@
               "RelativeToolTip": "Web_CaPhe\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T10:37:35.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Web_CaPhee2_api\\Controllers\\HomeController.cs",
-              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Web_CaPhee2_api\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T10:34:05.568Z"
+              "WhenOpened": "2024-06-05T10:37:35.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Web_CaPhee2_api\\Controllers\\AccountController.cs",
-              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Web_CaPhee2_api\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAAADsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T10:33:53.084Z"
+              "Title": "shop.html",
+              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\shop.html",
+              "RelativeDocumentMoniker": "Web_CaPhe\\shop.html",
+              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\shop.html",
+              "RelativeToolTip": "Web_CaPhe\\shop.html",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAAAIMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-05T09:59:00.152Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Web_CaPhe\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Web_CaPhe\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAARAAAA",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Web_CaPhe\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Web_CaPhe\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T10:15:11.939Z",
+              "WhenOpened": "2024-06-05T10:15:31.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Web_CaPhe\\Controllers\\AccountController.cs",
-              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Web_CaPhe\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAAAE8AAAA0AAAA",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Program.cs",
+              "RelativeDocumentMoniker": "Web_CaPhe\\Program.cs",
+              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Program.cs",
+              "RelativeToolTip": "Web_CaPhe\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAIwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T10:04:51.655Z",
+              "WhenOpened": "2024-06-05T10:05:39.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\appsettings.json",
+              "RelativeDocumentMoniker": "Web_CaPhe\\appsettings.json",
+              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\appsettings.json",
+              "RelativeToolTip": "Web_CaPhe\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T09:44:23.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "launchSettings.json",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Web_CaPhee2_api\\Properties\\launchSettings.json",
@@ -220,19 +318,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Web_CaPhe\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Web_CaPhe\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAE8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:04:51.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Web_CaPhee2_api\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Web_CaPhee2_api\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAADsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:33:53.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web_CaPhee2_api\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web_CaPhee2_api\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:34:05.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Web_CaPhe\\Controllers\\HomeController.cs",
               "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Web_CaPhe\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAB8AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T10:30:22.069Z"
+              "WhenOpened": "2024-06-05T10:30:22.069Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "RegisterRequestDTO.cs",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\DTO\\RegisterRequestDTO.cs",
               "RelativeDocumentMoniker": "Web_CaPhee2_api\\DTO\\RegisterRequestDTO.cs",
@@ -244,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "RegisterRequestDTO.cs",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\DTO\\RegisterRequestDTO.cs",
               "RelativeDocumentMoniker": "Web_CaPhe\\DTO\\RegisterRequestDTO.cs",
@@ -256,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\DTO\\ProductDTO.cs",
               "RelativeDocumentMoniker": "Web_CaPhe\\DTO\\ProductDTO.cs",
@@ -268,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "OrderDTO.cs",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\DTO\\OrderDTO.cs",
               "RelativeDocumentMoniker": "Web_CaPhe\\DTO\\OrderDTO.cs",
@@ -280,19 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Program.cs",
-              "RelativeDocumentMoniker": "Web_CaPhe\\Program.cs",
-              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Program.cs",
-              "RelativeToolTip": "Web_CaPhe\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAIwA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T10:05:39.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "OrderDetailDTO.cs",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\DTO\\OrderDetailDTO.cs",
               "RelativeDocumentMoniker": "Web_CaPhe\\DTO\\OrderDetailDTO.cs",
@@ -304,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "LoginResponseDTO.cs",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\DTO\\LoginResponseDTO.cs",
               "RelativeDocumentMoniker": "Web_CaPhe\\DTO\\LoginResponseDTO.cs",
@@ -316,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "LoginRequestDTO.cs",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\DTO\\LoginRequestDTO.cs",
               "RelativeDocumentMoniker": "Web_CaPhe\\DTO\\LoginRequestDTO.cs",
@@ -328,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "ContactDTO.cs",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\DTO\\ContactDTO.cs",
               "RelativeDocumentMoniker": "Web_CaPhe\\DTO\\ContactDTO.cs",
@@ -340,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "CoffeeshopDbContext.cs",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Data\\CoffeeshopDbContext.cs",
               "RelativeDocumentMoniker": "Web_CaPhe\\Data\\CoffeeshopDbContext.cs",
@@ -352,43 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Web_CaPhe\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Web_CaPhe\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T10:15:32.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Web_CaPhe\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "Web_CaPhe\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-05T10:15:31.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\appsettings.json",
-              "RelativeDocumentMoniker": "Web_CaPhe\\appsettings.json",
-              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\appsettings.json",
-              "RelativeToolTip": "Web_CaPhe\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-05T09:44:23.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Models\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "Web_CaPhe\\Models\\RegisterViewModel.cs",
@@ -400,19 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "shop.html",
-              "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\shop.html",
-              "RelativeDocumentMoniker": "Web_CaPhe\\shop.html",
-              "ToolTip": "F:\\github\\Web_CaPhe\\Web_CaPhe\\shop.html",
-              "RelativeToolTip": "Web_CaPhe\\shop.html",
-              "ViewState": "AQIAAPkAAAAAAAAAAAAAAIMAAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-06-05T09:59:00.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "Web_CaPhe\\Models\\LoginModel.cs",
@@ -424,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "HomeAdminController.cs",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
               "RelativeDocumentMoniker": "Web_CaPhe\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
@@ -436,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Login.html",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhe\\Login.html",
               "RelativeDocumentMoniker": "Web_CaPhe\\Login.html",
@@ -448,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "serviceDependencies.json",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\Properties\\serviceDependencies.json",
               "RelativeDocumentMoniker": "Web_CaPhee2_api\\Properties\\serviceDependencies.json",
@@ -460,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "Web_CaPhee2_api.http",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\Web_CaPhee2_api.http",
               "RelativeDocumentMoniker": "Web_CaPhee2_api\\Web_CaPhee2_api.http",
@@ -472,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\Program.cs",
               "RelativeDocumentMoniker": "Web_CaPhee2_api\\Program.cs",
@@ -484,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\github\\Web_CaPhe\\Web_CaPhee2_api\\appsettings.json",
               "RelativeDocumentMoniker": "Web_CaPhee2_api\\appsettings.json",
