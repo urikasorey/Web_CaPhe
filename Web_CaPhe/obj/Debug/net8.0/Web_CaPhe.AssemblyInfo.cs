@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web_CaPhe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e19fbfdb0ba324b7221d2889df03f2005b2b0c1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45845d24d8a53db1af991d800bbb955546837ea5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web_CaPhe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web_CaPhe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

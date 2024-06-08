@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using System.Configuration;
 using Web_CaPhe.Data;
 using Web_CaPhe.Models.Interface;
 using Web_CaPhe.Models.Services;
@@ -23,11 +24,14 @@ builder.Services.AddHttpClient();
     builder.Services.AddRazorPages();
     builder.Services.AddScoped<IProductRepository, ProductRepository>();
     builder.Services.AddScoped<IContactRepository, ContactRepository>();
+    builder.Services.AddHttpClient<IOrderRepository, OrderRepository>();
+  
 
     builder.Services.AddScoped<IShoppingCartRepository, ShoppingCartRepository>(ShoppingCartRepository.GetCart);
     builder.Services.AddScoped<IOrderRepository, OrderRepository>();
     builder.Services.AddDbContext<CoffeeshopDbContext>(options =>
-        options.UseSqlServer(builder.Configuration.GetConnectionString("CoffeeShopDbContextConnection"))); 
+        options.UseSqlServer(builder.Configuration.GetConnectionString("CoffeeShopDbContextConnection")));
+
 
     builder.Services.AddSession();
     builder.Services.AddHttpContextAccessor();

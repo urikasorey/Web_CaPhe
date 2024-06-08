@@ -17,7 +17,7 @@ namespace Web_CaPhee2_api.Controllers
 			_productRepository = productRepository;
 		}
 
-		[HttpGet("TrendingProducts")]
+		[HttpGet("Products")]
 		public IActionResult GetTrendingProducts()
 		{
 			var products = _productRepository.GetTrendingProducts();

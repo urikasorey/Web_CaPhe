@@ -18,7 +18,7 @@ public class HomeController : Controller
 
 	public async Task<IActionResult> Index()
 	{
-		var response = await _httpClient.GetAsync("https://localhost:7166/api/home/TrendingProducts");
+		var response = await _httpClient.GetAsync("https://localhost:7166/api/home/Products");
 
 		if (response.IsSuccessStatusCode)
 		{

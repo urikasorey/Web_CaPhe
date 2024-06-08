@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web_CaPhee2_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b63a463e91a9531c9f66b9719d6fee0b316a6d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45845d24d8a53db1af991d800bbb955546837ea5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web_CaPhee2_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web_CaPhee2_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

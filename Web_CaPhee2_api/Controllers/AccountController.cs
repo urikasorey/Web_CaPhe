@@ -1,20 +1,23 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using System.Web.Http.ModelBinding;
 using Web_CaPhee2_api.DTO;
 using Web_CaPhee2_api.Models.Interface;
+using System.Linq;
+using System.Threading.Tasks;
 
 [ApiController]
 [Route("api/[controller]")]
 public class AccountController : ControllerBase
 {
     private readonly UserManager<IdentityUser> _userManager;
+    private readonly RoleManager<IdentityRole> _roleManager;
     private readonly ITokenRepository _tokenRepository;
 
-    public AccountController(ITokenRepository tokenRepository, UserManager<IdentityUser> userManager)
+    public AccountController(ITokenRepository tokenRepository, UserManager<IdentityUser> userManager, RoleManager<IdentityRole> roleManager)
     {
         _userManager = userManager;
         _tokenRepository = tokenRepository;
+        _roleManager = roleManager;
     }
 
     [HttpPost]
@@ -23,7 +26,7 @@ public class AccountController : ControllerBase
     {
         if (registerRequestDTO == null || !ModelState.IsValid)
         {
-            return BadRequest("Invalid registration request.");
+            return BadRequest("Yêu cầu đăng ký không hợp lệ.");
         }
 
         var identityUser = new IdentityUser
@@ -37,13 +40,25 @@ public class AccountController : ControllerBase
         {
             if (registerRequestDTO.Roles != null && registerRequestDTO.Roles.Any())
             {
+                foreach (var role in registerRequestDTO.Roles)
+                {
+                    if (!await _roleManager.RoleExistsAsync(role))
+                    {
+                        var roleResult = await _roleManager.CreateAsync(new IdentityRole(role));
+                        if (!roleResult.Succeeded)
+                        {
+                            return BadRequest($"Tạo vai trò thất bại: {role}");
+                        }
+                    }
+                }
+
                 var rolesResult = await _userManager.AddToRolesAsync(identityUser, registerRequestDTO.Roles);
                 if (!rolesResult.Succeeded)
                 {
-                    return BadRequest("Failed to add roles to the user.");
+                    return BadRequest("Gán vai trò cho người dùng thất bại.");
                 }
             }
-            return Ok("Registration successful! Please login.");
+            return Ok("Đăng ký thành công! Vui lòng đăng nhập.");
         }
 
         var errors = identityResult.Errors.Select(e => e.Description);
@@ -56,7 +71,7 @@ public class AccountController : ControllerBase
     {
         if (loginRequestDTO == null || !ModelState.IsValid)
         {
-            return BadRequest("Invalid login request.");
+            return BadRequest("Yêu cầu đăng nhập không hợp lệ.");
         }
 
         var user = await _userManager.FindByEmailAsync(loginRequestDTO.Username);
@@ -77,6 +92,6 @@ public class AccountController : ControllerBase
             }
         }
 
-        return Unauthorized("Username or password incorrect.");
+        return Unauthorized("Tên người dùng hoặc mật khẩu không đúng.");
     }
 }
